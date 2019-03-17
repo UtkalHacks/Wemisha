@@ -1,0 +1,23 @@
+body { margin:0;}
+
+header{ background-color:black; color:white; padding:8px 0px 6px 40px; height:50px; }
+
+header h1 { display: inline; font-size: 32px; float:left; margin-top:5px; margin-right:25px; }
+
+nav ul li{ display: inline; list-style:none; color:white; margin-left:10px; float:left; font-weight:none;}
+
+nav ul { display: inline; padding:0px; float:left;}
+
+nav ul li a { color:white; float:left; text-decoration:none; font-size:18px; margin-top:-20px;
+              font-family:Bookman Old Style; }
+
+.colred { background-color:rgba(255,0,0,1.0); padding: 17px 10px 22px 10px; font-size:19px; }
+
+.divider { background-color:rgba(255,0,0,1.0); height:5px;}
+
+.colblack:hover { background-color:rgba(0,0,255,0.4); padding: 17px 10px 21px 10px; font-size:19px; transition: .25s ease;}
+
+.backimg { background-image:url("../images/img2.jpg"); height: 514px;
+           background-repeat:no-repeat; background-size:cover;  padding-top:3px;}
+
+footer { background-color:black; height:46px;}

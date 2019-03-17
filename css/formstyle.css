@@ -1,0 +1,27 @@
+.form:hover { box-shadow: 0px 0px 15px 5px rgba(18,18,18,0.9); background-color: rgba(0,0,0,0.65);}
+
+.tab { height: 50px; background-color: rgba(0,0,0,0.65);}
+
+ #formtabs li  { font-family:Bookman Old Style; cursor: pointer; font-size: 17px;
+                      margin-top: 4px; float: left; margin-left: 0px; text-decoration: none;}
+
+.colgrey  { padding: 19px 44px 15px 44px; background-color: rgba(0,0,0,0.7); }
+
+.colhov {  padding: 19px 44px 15px 45px; }
+
+.colhov:hover { background-color: rgba(0,0,0,0.6); transition: .5s ease;}
+
+ .divider2 { background-color: rgba(0,0,0,0.8); height: 5px;}
+
+.btn  { border-radius:5px; width:170px; margin-top:40px; margin-left:10px; padding:5px; font-weight:bold;
+	    border-width:2px;  color: white; cursor: pointer; font-size: 17px; font-family: Bookman Old Text;
+        border-color: rgba(255,0,0,1.0);  text-decoration: none;background-color: rgba(0,0,0,0.6); transition: .5s; }
+
+.btn:hover { background-color: rgba(255,0,0,1.0); transition: .3s ease;}
+
+.textbox  { border-radius:5px; background-color:rgba(0,0,0,0.85); height:30px; color: white; font-family: Bookman Old Text;
+                  font-size: 16px; width: 180px; border-color:rgba(0,0,0,0.85); transition: .3s;}
+
+#label { text-align:left; font-weight:none; color: white; font-family: Bookman Old Style; padding: 15px; font-size: 18px;}
+
+.req { color: red; font-weight: none;}
